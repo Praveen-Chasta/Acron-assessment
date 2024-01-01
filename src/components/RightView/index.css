@@ -1,0 +1,90 @@
+.right-cont {
+  padding: 25px;
+}
+
+.right-heading {
+  opacity: 0.5;
+  font-size: 25px;
+}
+
+.r-heading {
+  color: #0b70f3;
+  font-size: 18px;
+}
+
+.right-locations {
+  display: flex;
+  align-items: center;
+}
+
+.r-p {
+  margin-right: 15px;
+}
+
+.r-tech {
+  display: flex;
+  justify-content: space-around;
+  width: 15vw;
+  opacity: 0.5;
+}
+
+.r-item {
+  border: 1px solid #000;
+  border-radius: 25px;
+  padding: 4px;
+  width: 4vw;
+  text-align: center;
+}
+
+.r-item-0 {
+  border: 1px solid #000;
+  border-radius: 25px;
+  padding: 2px;
+  width: 6vw;
+  text-align: center;
+  font-size: 12px;
+}
+
+.r-item-1 {
+  border: 1px solid #000;
+  border-radius: 25px;
+  padding: 4px;
+  width: 6vw;
+  text-align: center;
+  font-size: 15px;
+}
+
+.r-item-2 {
+  border: 1px solid #000;
+  border-radius: 25px;
+  padding: 2px;
+  width: 6vw;
+  text-align: center;
+  font-size: 12px;
+}
+
+.right-bottom-container {
+  margin-top: 50px;
+}
+
+.right-bottom-heading {
+  opacity: 0.5;
+  font-size: 25px;
+}
+
+.r-network-question {
+  display: flex;
+  align-items: center;
+}
+
+.r-net-p {
+  margin-left: 15px;
+  color: #0b70f3;
+  font-weight: bold;
+}
+
+.r-net-p-1 {
+  margin-left: 15px;
+  color: #0b70f3;
+  font-weight: bold;
+}

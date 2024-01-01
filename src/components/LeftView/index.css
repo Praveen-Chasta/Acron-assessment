@@ -1,0 +1,26 @@
+.left-side-container {
+  width: 40vh;
+  height: 265vh;
+  box-shadow: 5px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+  height: 140px;
+  width: 200px;
+}
+
+.list-items {
+  display: flex;
+  align-items: center;
+}
+
+.list-items-1 {
+  display: flex;
+  align-items: center;
+  border: none;
+  border-left: 4px solid orange;
+}
+
+.item {
+  margin-left: 8px;
+}

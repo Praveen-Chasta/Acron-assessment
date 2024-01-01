@@ -1,0 +1,38 @@
+.footer-container {
+  width: 97vw;
+  height: 80vh;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.ul-footer-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-element {
+  list-style-type: none;
+  display: flex;
+}
+
+.f-p {
+  margin-right: 10px;
+  opacity: 0.5;
+  font-family: 'Roboto';
+}
+
+.footer-element-1 {
+  list-style-type: none;
+}
+
+.ul-footer-list-1 {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  opacity: 0.5;
+}
+
+.li-1 {
+  margin-right: 30px;
+}
